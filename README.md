@@ -1,4 +1,4 @@
-# Prólogo
+# El libro del nuevo conductor
 
 Este material ha sido elaborado por la Comisión Nacional de Seguridad de Tránsito \(CONASET\), y está disponible de manera gratuita en la página web www.conaset.cl
 

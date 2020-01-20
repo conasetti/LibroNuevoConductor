@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Prólogo](README.md)
+* [El libro del nuevo conductor](README.md)
 * [Presentación](presentacion.md)
 * [El problema de los accidentes de tránsito](el-problema-de-los-accidentes-de-transito-1/README.md)
   * [Costos de los accidentes de tránsito](el-problema-de-los-accidentes-de-transito-1/costos-de-los-accidentes-de-transito.md)
