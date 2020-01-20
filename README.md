@@ -4,6 +4,8 @@ Este material ha sido elaborado por la Comisión Nacional de Seguridad de Tráns
 
 La reproducción, transmisión o el almacenamiento de este texto, incluido el diseño de la portada, sea por medios químicos, electrónicos o mecánicos, incluida la fotocopia, cuenta con la autorización de la Comisión Nacional de Seguridad de Tránsito.
 
+Esta nueva versión del documento se presenta en un nuevo formato que permitirá el control de versiones, portabilidad, adaptabilidad y disponibilidad del código fuente.
+
 CONASET no se hace responsable por el uso indebido de las reproducciones de este material.
 
 Versión 3.0

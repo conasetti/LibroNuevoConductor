@@ -4,7 +4,7 @@ description: >-
   dónde, cuándo y por qué ocurren.
 ---
 
-# Evitar los accidentes de tránsito
+# Los accidentes de tránsito son evitables
 
 Se afirma que es un error llamar a los accidentes de tránsito “accidentes”. Se define accidente como: “suceso eventual del que involuntariamente resulta un daño” y se le asocia a un fenómeno casual, impredecible e incontrolable.
 

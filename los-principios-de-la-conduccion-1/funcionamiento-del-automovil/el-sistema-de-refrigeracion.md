@@ -1,6 +1,8 @@
 # El sistema de refrigeración
 
-Los gases de escape contienen monóxido de carbono, que es venenoso, incoloro y carece de olor. Los primeros síntomas de intoxicación son el dolor de cabeza y los vómitos. Los gases de escape poseen, además, muchas otras sustancias tóxicas, peligrosas para usted y para el medio ambiente.
+El sistema de refrigeración tiene la misión de enfriar el motor para que mantenga la temperatura adecuada. El motor se enfría con un líquido refrigerante \(agua destilada más un anticongelante\) que circula por canales en el bloque del motor y pasa desde ahí al radiador. Una temperatura del motor demasiado alta puede deberse a una obstrucción del sistema de refrigeración, poca cantidad de líquido, correa de la bomba de agua rota o mal tensada. Si la temperatura del motor ha aumentado, deténgase y repare la avería.
 
-Recuerde que existe un gran riesgo de que el sistema de escape se oxide o se estropee, lo que puede provocar que el monóxido de carbono penetre en el interior del vehículo. Un ruido anormalmente alto del tubo de escape suele ser una señal de roturas o de orificios en el silenciador.
+Hoy día la mayoría de los vehículos tiene ventilador eléctrico que se activa al subir la temperatura \(especialmente al circular a baja velocidad\). Si esto no sucede, puede deberse a un contacto defectuoso o a un fusible dañado. Si la temperatura del vehículo está subiendo más de lo normal es probable que se haya roto la correa del ventilador.
+
+A temperaturas bajo cero es importante que el líquido refrigerante contenga una cantidad suficiente de anticongelante que impida que el motor y el radiador se dañen por efecto de la congelación del agua.
 

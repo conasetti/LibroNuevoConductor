@@ -10,18 +10,20 @@ Procure llenar el estanque de combustible cada vez que vaya a la bomba de bencin
 
 Utilice el octanaje adecuado al motor de su vehículo \(de acuerdo a las recomendaciones del fabricante\).
 
-#### Al cargar gasolina recuerde:
+{% hint style="success" %}
+**Al cargar gasolina recuerde:**
 
 * Apagar el motor del vehículo.
 * Evitar la inhalación de vapores emanados por la gasolina.
 * No encender cigarrillos.
 * No hablar por celular.
+{% endhint %}
 
 {% hint style="info" %}
 Las frecuentes frenadas y aceleraciones al conducir causan alto consumo de combustible.
 {% endhint %}
 
-{% hint style="info" %}
+{% hint style="danger" %}
 Si al conducir usted siente un fuerte olor a gasolina debe detenerse para investigar la causa del problema. Así puede prevenir el riesgo de incendio en su vehículo.
 {% endhint %}
 

@@ -10,14 +10,16 @@ Una batería mal cargada hace que el vehículo tenga dificultades para arrancar,
 
 Si el motor del vehículo no se enciende al darle contacto es muy probable que la batería se encuentre descargada o desconectada.
 
-#### Controle:
+{% hint style="success" %}
+Controle:
 
 * El nivel de líquido en la batería. Agregue agua destilada en caso necesario.
 * Que la correa del alternador esté suficientemente tensa.
 * Que los cables de la batería estén bien sujetos.
 * La luz de carga durante la conducción. Si se enciende o parpadea es porque hay algún problema.
+{% endhint %}
 
-{% hint style="info" %}
+{% hint style="warning" %}
 ¡Precaución! El ácido de la batería es corrosivo; tenga cuidado con su ropa y la piel.
 {% endhint %}
 

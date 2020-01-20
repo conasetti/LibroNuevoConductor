@@ -4,6 +4,8 @@ Los neumáticos son el único punto de apoyo del vehículo con la calzada. El ag
 
 Para que los neumáticos cumplan bien sus funciones de frenado, agarre y direccionalidad, los dibujos o surcos de sus bandas de rodamiento deben tener una profundidad aconsejable mínima de 3 mm. Cuando la profundidad de tales dibujos es muy baja \(inferior a 1,6 mm\) empeora la fricción con el pavimento mojado, aumentando el riesgo de que se pierda el contacto con el pavimento a causa de la capa de agua que se forma delante de los neumáticos. Acostúmbrese a revisar periódicamente sus neumáticos y a constatar que sus detectores de desgaste de la profundidad de los surcos no le indiquen que ésta es inferior a 1,6 mm.
 
+![](../../.gitbook/assets/neumaticos2.PNG)
+
 {% hint style="info" %}
 De los distintos elementos de un vehículo, los neumáticos son los que requieren mayor revisión de parte del conductor.
 {% endhint %}
@@ -14,7 +16,11 @@ Un desgaste notorio en la zona central de la banda de rodamiento significa que l
 
 Una presión de aire demasiado baja en una o en las dos ruedas traseras puede aumentar significativamente la tendencia al giro. Con una baja presión de aire en las ruedas delanteras la dirección del vehículo es más pesada, y por ende el vehículo es más pesado de manejar. Una baja presión de aire en una rueda delantera hace que el vehículo tienda a torcer hacia ese lado.
 
+![](../../.gitbook/assets/neumaticos1.PNG)
+
 Cuando la presión de los neumáticos es superior a la indicada por el fabricante se pierde la adherencia de los neumáticos.
+
+![](../../.gitbook/assets/neumaticos3.PNG)
 
 Siempre los mejores neumáticos deben ir atrás, indistintamente de la ubicación de las ruedas de tracción, para asegurar la mejor estabilidad.
 
