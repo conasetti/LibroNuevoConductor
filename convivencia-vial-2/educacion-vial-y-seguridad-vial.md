@@ -6,7 +6,7 @@ La Educación Vial es la adquisición de valores para poder alcanzar una mejor c
 
 La Seguridad Vial tiene como meta la eliminación total de los accidentes de tránsito, partiendo de la reducción de los mismos y la minimización de sus consecuencias. Para que esto ocurra, se debe tener una adecuada y real percepción del riesgo. Esa percepción del riesgo en la mayoría de los conductores suele estar por debajo del riesgo real, pues suele ser una percepción subjetiva y poco realista, lo cual produce que el riesgo percibido es prácticamente nulo.
 
-## Un riesgo que no se percibe no existe
+### Un riesgo que no se percibe no existe
 
 Debe saber que mientras conduce un automóvil corre riesgos y que un comportamiento incorrecto en estas circunstancias puede poner en peligro su vida y la de los demás. La inexperiencia, la imprudencia y la falta de formación de los conductores son el mayor riesgo a la hora de conducir.
 

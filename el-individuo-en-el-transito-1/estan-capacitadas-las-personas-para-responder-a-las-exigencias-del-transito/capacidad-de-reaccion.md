@@ -1,0 +1,6 @@
+# Capacidad de reacción
+
+El conductor reaccionó rápidamente cuando estuvo a punto de salirse del camino en la primera curva: demostró buena capacidad de reacción. El movimiento del volante y la reducción de velocidad salvaron la situación. El tiempo de reacción del conductor tiene gran importancia cuando se enfrenta una situación difícil. Sin embargo, debe tener presente que en una comparación entre quien tiene un menor tiempo de reacción y quien conduce a baja velocidad, por ejemplo cuando se trata de ver quién se detiene primero, el que conduce a menor velocidad lleva todas las de ganar. Con frecuencia se piensa que los conductores jóvenes reaccionan en cualquier situación con mayor rapidez que quienes tienen más edad. Esto es falso. El tiempo de reacción que en un conductor joven suele ser menor se refiere sólo a la reacción simple; es decir, la reacción ante una señal que se sabe que se va a presentar, pero este tipo de situaciones no se dan con mucha frecuencia en el tránsito.
+
+En situaciones reales que requieren reacciones complejas, en las que deben interpretarse rápidamente muchas impresiones, los conductores expertos tienen una reacción mucho más rápida. El grupo de edad “más rápido” corresponde a quienes tienen entre 35 y 50 años. Posteriormente, a medida que la edad va aumentando, el tiempo de reacción va siendo mayor.
+
